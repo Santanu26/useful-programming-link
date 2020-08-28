@@ -1,0 +1,14 @@
+# Competitive Programming
+
+
+1.  http://web.stanford.edu/class/cs97si/
+
+2. https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014
+
+3. https://algo.is/competitive-programming-course/
+
+4. https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF
+
+5. https://codeforces.com/blog/entry/23054
+
+
